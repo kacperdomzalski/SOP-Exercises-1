@@ -8,6 +8,7 @@ echo "Hello $username!"
 
 if [[ $username == $USER ]]; then
 echo "Your home directory is: $HOME"
+echo "Logged-in user is: $USER"
 fi
 
 
