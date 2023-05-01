@@ -15,3 +15,9 @@ wynnik do pliku listing.lst, wyszukać i wyświetlić pliki zawierające pewien
 wzorzec np. zip, txt oraz wypisać informacje o zajmowanym na dysku 
 miejscu w KB,MB,GB,TB, itd. Powinien również wyliczyć ile jest linii 
 w naszym potoku wyjściowym
+
+## Ex-3
+Utwórz skrypt, który przyjmie na wejściu plik csv jako pierwszy 
+argument oraz wyświeli informacje z wybranych kolumn – kolumny będą 
+podawane jako drugi, trzeci itd argument (prowadzący wybierze i poda 
+kolumny).
