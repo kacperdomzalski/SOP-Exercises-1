@@ -43,3 +43,11 @@ Po podaniu nazwy pliku przez użytkownika, skrypt powinien wywołać obie
 funkcje z tą nazwą pliku jako argumentami i wyświetlić wyniki. Ponadto 
 skrypt powinien stworzyć dwa pliki o nazwie words.txt oraz lines.txt i 
 zapisać wyniki do odpowiednich plików.
+
+## Ex-6
+Napisz skrypt, który wyświetla w kolejnych liniach wartości 
+zaczynając od wartości podanej jako argument wywołania skryptu do 
+wartości 1 z krokiem -1. Skrypt musi zawierać sprawdzanie obecności 
+argumentu oraz ilości argumentów (nie więcej niż 1) oraz powinień 
+sprawdzić czy liczba przekazana jako argument jest liczbą naturalną 
+dodatnią.
