@@ -22,7 +22,7 @@ argument oraz wyświeli informacje z wybranych kolumn – kolumny będą
 podawane jako drugi, trzeci itd argument (prowadzący wybierze i poda 
 kolumny).
 
-## EX-4 <TO FIX>
+## EX-4 !TO FIX
 Utwórz skrypt o nazwie listowanie.sh. Skrypt ma za zadanie 
 wylistowanie wszystkich elementów z wpisanego ręcznie folderu jako 
 pierwszy argument np. /home/sxxxx/ (poinformuj użytkownika o wymogu 
